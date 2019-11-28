@@ -1,0 +1,21 @@
+{
+  "name": "pimiento",
+  "version": "1.0.0",
+  "description": "",
+  "main": "pimiento.js",
+  "scripts": {
+    "start": "parcel demo/index.html",
+    "build": "parcel build pimiento.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matmartinez/pimiento.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/matmartinez/pimiento/issues"
+  },
+  "homepage": "https://github.com/matmartinez/pimiento#readme"
+}
