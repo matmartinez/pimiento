@@ -4,6 +4,7 @@ const node = new Pimiento.Node()
 node.frame = Pimiento.Rect.make(0, 0, 100, 100)
 node.background = "red"
 node.cornerRadius = 16
+node.cornerCurve = Pimiento.CornerCurve.continuous
 
 const textNode = new Pimiento.TextNode()
 textNode.text = "Hello, world"
